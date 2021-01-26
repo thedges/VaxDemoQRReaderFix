@@ -11,7 +11,7 @@ Here are quick instructions to install:
    -  It will ask you to allow access to your org (OAuth prompt)? Select Allow
    - On
 
-<a href="https://githubsfdeploy.herokuapp.com">
+<a href="https://githubsfdeploy.herokuapp.com?owner=thedges&repo=VaxDemoQRReaderFix&ref=main">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
